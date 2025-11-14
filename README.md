@@ -55,15 +55,6 @@ After you guess correctly the button will be disabled — refresh the page to pl
 
 ---
 
-## Suggestions / Next steps
-
-- Change the input to `type="number"` and limit min/max for better UX.
-- Add a "Play again" button that resets the game state without a page reload.
-- Display a list of previous guesses.
-- Add animations or colors to improve feedback clarity.
-
----
-
 ## License & Credits
 
 - Use freely for learning and small demo projects. If you publish or redistribute, please include credit.
